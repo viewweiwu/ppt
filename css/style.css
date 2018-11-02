@@ -1,0 +1,8 @@
+h1 {
+  font-size: 150px;
+  text-shadow: 5px 5px #000;
+  white-space: nowrap;
+}
+h2 {
+  font-size: 2em;
+}

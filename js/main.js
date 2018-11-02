@@ -1,0 +1,3 @@
+function device (e) {
+  
+}
