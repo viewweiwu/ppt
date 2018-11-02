@@ -14,7 +14,6 @@ files: /css/style.css
 ===
 
 [slide]
-# 什么是配网？
 [magic data-transition="cover-diamond"]
 -----
 <img src="/images/dl.png">
@@ -22,7 +21,10 @@ files: /css/style.css
 -----
 <img src="/images/dl-2.png">
 ====
-## 标题3
 -----
-333
+<img src="/images/dl-3.png">
+====
+-----
+<img src="/images/dl-4.png">
+====
 [/magic]
