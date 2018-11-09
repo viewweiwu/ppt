@@ -4,8 +4,7 @@ files: /css/style.css
 
 
 [slide style="background-image: url('/images/bg.jpg')"]
-# 配网
-## 配网流程解析
+# 配网的流程
 
 [slide]
 # 什么是配网？
@@ -28,3 +27,5 @@ files: /css/style.css
 <img src="/images/dl-4.png">
 ====
 [/magic]
+
+[slide]
