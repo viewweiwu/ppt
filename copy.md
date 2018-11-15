@@ -2,9 +2,7 @@ files: /css/theme.moon.css
 theme: moon
 
 [slide style="background-image:url('/images/copy/bg.png')"]
-# 深拷贝与浅拷贝
-[note]
-[/note]
+# 浅拷贝与深拷贝
 
 [slide]
 ## 示例1
